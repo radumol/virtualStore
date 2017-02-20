@@ -1,0 +1,38 @@
+
+Radu Molea 
+
+
+
+A simple inventory system program written in C++.
+To operate:
+1) Compile the program by typing "make" in the terminal
+2) Execute the program by entering "./cushop -c" or "./cushop -a" for the cashier and administrator menu respectively.
+3) Navigate the menus and access data.
+
+
+Files Included
+--------------
+
+Root Dir
+ |-> README
+ |-> Makefile
+ |-> Main.cc
+ |-> defs.h
+ |-> Customer.cc
+ |-> Customer.h
+ |-> CustArray.cc
+ |-> CustArray.h
+ |-> Product.cc
+ |-> Product.h
+ |-> ProdArray.cc
+ |-> ProdArray.h
+ |-> Purchase.cc
+ |-> Purchase.h
+ |-> PurchArray.cc
+ |-> PurchArray.h
+ |-> Store.cc
+ |-> Store.h
+ |-> InvControl.cc
+ |-> InvControl.h
+ |-> UI.cc
+ |-> UI.h
